@@ -1,0 +1,7 @@
+html,
+body {
+  background-color: papayawhip;
+  font-family: sans-serif; }
+  html h1,
+  body h1 {
+    color: tomato; }

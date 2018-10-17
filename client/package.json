@@ -1,0 +1,41 @@
+{
+  "name": "integrant-react-01",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@types/react-redux": "^5.0.18",
+    "@types/react-router-dom": "^4.2.6",
+    "@types/reactstrap": "^5.0.21",
+    "@types/redux": "^3.6.0",
+    "@types/redux-form": "^7.2.4",
+    "axios": "^0.18.0",
+    "bootstrap": "^4.1.0",
+    "npm-run-all": "^4.1.2",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "react-redux": "^5.0.7",
+    "react-router-dom": "^4.2.2",
+    "react-scripts-ts": "2.15.1",
+    "reactstrap": "^5.0.0-beta.3",
+    "redux": "^4.0.0",
+    "redux-form": "^7.3.0"
+  },
+  "scripts": {
+    "build-css": "node-sass-chokidar src/ -o src/",
+    "watch-css": "npm run build-css && node-sass-chokidar src/ -o src/ --watch --recursive",
+    "start-ts": "set PORT=4000 && react-scripts-ts start",
+    "start": "npm-run-all -p watch-css start-ts",
+    "build-ts": "react-scripts-ts build",
+    "build": "npm-run-all build-css build-ts",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  },
+  "devDependencies": {
+    "@types/jest": "^22.2.3",
+    "@types/node": "^9.6.6",
+    "@types/react": "^16.3.12",
+    "@types/react-dom": "^16.0.5",
+    "typescript": "^2.8.3",
+    "node-sass-chokidar": "^1.2.2"
+  }
+}

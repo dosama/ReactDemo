@@ -1,0 +1,64 @@
+{
+  "drugs": [
+    {
+      "id": "0",
+      "name": "Adalimumab",
+      "description":
+        "Sold under the trade name Humira among others, is a medication used to treat rheumatoid arthritis, psoriatic arthritis, ankylosing spondylitis, Crohn's disease, ulcerative colitis, chronic psoriasis, hidradenitis suppurativa, and juvenile idiopathic arthritis.",
+      "infusables": [
+        { "id": "00", "name": "name0", "description": "description0" },
+        { "id": "01", "name": "name1", "description": "descrition1" },
+        { "id": "02", "name": "name2", "description": "descrition2" },
+        { "id": "03", "name": "name3", "description": "descrition3" }
+      ]
+    },
+    {
+      "id": "1",
+      "name": "Etanercept",
+      "description":
+        "Is a biopharmaceutical that treats autoimmune diseases by interfering with tumor necrosis factor (TNF, a soluble inflammatory cytokine) by acting as a TNF inhibitor. ",
+      "infusables": [
+        { "id": "00", "name": "name0", "description": "description0" },
+        { "id": "01", "name": "name1", "description": "descrition1" },
+        { "id": "02", "name": "name2", "description": "descrition2" },
+        { "id": "03", "name": "name3", "description": "descrition3" }
+      ]
+    },
+    {
+      "id": "1",
+      "name": "Infliximab",
+      "description":
+        "Is a chimeric monoclonal antibody biologic drug that works against tumor necrosis factor alpha (TNF-α) and is used to treat autoimmune diseases.",
+      "infusables": [
+        { "id": "00", "name": "name0", "description": "description0" },
+        { "id": "01", "name": "name1", "description": "descrition1" },
+        { "id": "02", "name": "name2", "description": "descrition2" },
+        { "id": "03", "name": "name3", "description": "descrition3" }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Rituximab",
+      "description":
+        "Sold under the brand name Rituxan among others, is a medication used to treat certain autoimmune diseases and types of cancer.",
+      "infusables": [
+        { "id": "00", "name": "name0", "description": "description0" },
+        { "id": "01", "name": "name1", "description": "descrition1" },
+        { "id": "02", "name": "name2", "description": "descrition2" },
+        { "id": "03", "name": "name3", "description": "descrition3" }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Insulin glargine",
+      "description":
+        "Marketed under the names Lantus, among others, is a long-acting basal insulin analogue, given once daily to help control the blood sugar level of those with diabetes.",
+      "infusables": [
+        { "id": "00", "name": "name0", "description": "description0" },
+        { "id": "01", "name": "name1", "description": "descrition1" },
+        { "id": "02", "name": "name2", "description": "descrition2" },
+        { "id": "03", "name": "name3", "description": "descrition3" }
+      ]
+    }
+  ]
+}

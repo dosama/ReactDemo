@@ -1,0 +1,89 @@
+{
+  "infusables": [
+    {
+      "id": "00",
+      "name": "name0",
+      "description": "description0"
+    },
+    {
+      "id": "01",
+      "name": "name1",
+      "description": "descrition1"
+    },
+    {
+      "id": "02",
+      "name": "name2",
+      "description": "descrition2"
+    },
+    {
+      "id": "03",
+      "name": "name3",
+      "description": "descrition3"
+    }
+  ],
+  "drugs": [
+    {
+      "id": "1",
+      "name": "Etanercept",
+      "description": "Is a biopharmaceutical that treats autoimmune diseases by interfering with tumor necrosis factor (TNF, a soluble inflammatory cytokine) by acting as a TNF inhibitor. ",
+      "infusable": "01"
+    },
+    {
+      "id": "1",
+      "name": "Infliximab",
+      "description": "Is a chimeric monoclonal antibody biologic drug that works against tumor necrosis factor alpha (TNF-α) and is used to treat autoimmune diseases.",
+      "infusables": "01"
+    },
+    {
+      "id": "2",
+      "name": "Rituximab",
+      "description": "Sold under the brand name Rituxan among others, is a medication used to treat certain autoimmune diseases and types of cancer.",
+      "infusable": "02"
+    },
+    {
+      "id": "3",
+      "name": "Insulin glargine",
+      "description": "Marketed under the names Lantus, among others, is a long-acting basal insulin analogue, given once daily to help control the blood sugar level of those with diabetes.",
+      "infusable": "03"
+    },
+    {
+      "id": "uWL5RcX"
+    },
+    {
+      "id": "UsjUqRE"
+    },
+    {
+      "id": "LZj~N~b"
+    },
+    {
+      "id": "l8yUv4g"
+    },
+    {
+      "id": "XNpD57K"
+    },
+    {
+      "id": "TEUwfig"
+    },
+    {
+      "id": "TGS81~v"
+    },
+    {
+      "id": "4f6185eb-83c2-4669-a852-2669b4e9ced3",
+      "name": "jjkfdjf",
+      "description": "ikftjjmf",
+      "infusable": "ff0000"
+    },
+    {
+      "id": "59fe626e-6028-430c-a755-8be736a1ecd3",
+      "name": "djfjf",
+      "description": "djdfhfdhf",
+      "infusable": "01"
+    },
+    {
+      "id": "fcfa0b49-8b7a-45c0-8a54-44b2658f30c8",
+      "name": "hello 2",
+      "description": "hello 2",
+      "infusable": "02"
+    }
+  ]
+}
